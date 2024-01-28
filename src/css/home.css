@@ -1,0 +1,19 @@
+.container_logo img {
+  width: 300px;
+  margin-bottom: 50px;
+}
+
+.container .container-actions {
+  display: flex;
+  flex-direction: column;
+}
+
+.container .container-actions .btn {
+  background-color: #fff;
+  width: 300px;
+  height: 52px;
+  border-radius: 30px;
+  border: none;
+  margin-bottom: 25px;
+  cursor: pointer;
+}

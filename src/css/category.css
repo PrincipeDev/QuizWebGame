@@ -1,0 +1,52 @@
+.container-logo img {
+  width: 120px;
+}
+
+.title {
+  font-size: 42px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 30px;
+}
+
+.categorias {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.categorias .categorias-line-1 {
+  display: flex;
+  justify-content: space-between;
+  width: 360px;
+  padding: 0 10px;
+  margin-bottom: 20px;
+}
+
+.categorias .categorias-line-1 img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+}
+
+.categorias .categorias-line-2 {
+  display: flex;
+  justify-content: space-between;
+  width: 360px;
+  padding: 0 10px;
+  margin-bottom: 30px;
+}
+
+.categorias .categorias-line-2 img {
+  width: 150px;
+  height: 150px;
+  border-radius: 8px;
+}
+
+.btn-back {
+  width: 150px;
+  height: 34px;
+  border-radius: 25px;
+  border: none;
+  cursor: pointer;
+}
